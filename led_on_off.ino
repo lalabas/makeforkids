@@ -1,3 +1,5 @@
+//무선 wifi를 이용하여,WeMos D1 mini활용,LED on/off를 해보는 예제입니다.
+
 #include <ESP8266WiFi.h>
  
 const char* ssid = "Mrspock_M1"; // 무선공유기 이름
@@ -98,4 +100,4 @@ void loop() {
 }
  
 
-//무선으로 LED on/off로 해보는 예제입니다. 
+
